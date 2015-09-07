@@ -1,6 +1,8 @@
 # RoutingEngine
 Graph routing engine. Couple of algorithms combined in one library written in Cython
 
+[![LGPLLicense](https://img.shields.io/badge/License-LGPL3-brightgreen.svg)](https://img.shields.io/badge/License-LGPL3-brightgreen.svg)
+
 Main features:
 
  - Read graph from file
