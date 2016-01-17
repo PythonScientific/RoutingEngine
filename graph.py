@@ -54,3 +54,34 @@ class Graph:
 				if extended_path:
 					return extended_path
 		return None
+
+	def vertex_degree(self,vertex):
+		degree = 0
+		return degree
+
+	def max_degree(self):
+		degree = 0
+		return degree
+
+	def min_degree(self):
+		degree = 100000
+		return degree
+
+	def degree_seqence(self):
+		seq = []
+		return seq
+
+	def density(self):
+		density = 0
+		return density
+
+	def check_connectivity(self):
+		return True
+
+	def distance(self, start_vertex, end_vertex):
+		distance = 0
+		return distance
+
+	def diameter(self):
+		diameter = 0
+		return diameter

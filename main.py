@@ -21,3 +21,4 @@ if __name__ == "__main__":
 
 		g = Graph(graph1)
 		print(g.generate_edges())
+
