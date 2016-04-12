@@ -14,9 +14,37 @@ class Algorithm:
         self.__data = []
 
     @staticmethod
-    def find_shortes_path(graph,start_vertex,end_vertex):
+    def a_star(graph, start_vertex, end_vertex):
+	route = List()
+	while( verticiesList ):
+        verticies
+        
+    while( verticiesList )
+        v = verticiesList.pop()
+		route.push(v)
+	return route
+
+    @staticmethod
+    def dijkstra(graph, start_vertex, end_vertex):
+	return route
+
+    @staticmethod
+    def find_shortes_path(graph, start_vertex, end_vertex):
+	""" Searches for the shortest path between two points  """
         route = Route()
+	while( graph.getListOfVerticies() )
+		route.add()
         return route
+
+    @staticmethod
+    def precalculate_shortest_path(graph):
+	""" Precalculate the route from every point to every point """
+	verticiesList = graph.getListOfVerticies()
+
+	while( verticiesList )
+		v = verticiesList.pop()
+		
+	return
 
     @staticmethod
     def find_maximum_flow(graph,source_vertex,sink_vertex):
