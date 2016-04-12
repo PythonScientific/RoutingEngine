@@ -8,6 +8,10 @@ The Route has two meanings:
 Author: Patryk Zabkiewicz
 Date:	2015.08.02
 
+License info:
+This software comes with NO WARRANTY. You use it at your own risk.
+Full license text is avaible at http://www.gnu.org/licenses/lgpl-3.0.html
+
 """
 
 class Route:

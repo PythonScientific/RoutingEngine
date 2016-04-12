@@ -1,0 +1,8 @@
+29.08.2015
+- Implement Djikstra algorithm
+- Create proper structure of the graph
+- Write basic tests
+
+01.09.2015
+- Create long running process
+- Communication with the engine

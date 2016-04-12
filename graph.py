@@ -5,6 +5,10 @@ Base class for routing engine.
 Author: 	Patryk Zabkiewicz
 Date:		2015.08.01
 
+License info:
+This software comes with NO WARRANTY. You use it at your own risk.
+Full license text is avaible at http://www.gnu.org/licenses/lgpl-3.0.html
+
 """
 
 from vertex import *

@@ -5,6 +5,10 @@ Represent a edge of the graph with properties.
 Author: 	Patryk Zabkiewicz
 Date:		2015.08.03
 
+License info:
+This software comes with NO WARRANTY. You use it at your own risk.
+Full license text is avaible at http://www.gnu.org/licenses/lgpl-3.0.html
+
 """
 
 class Edge:
